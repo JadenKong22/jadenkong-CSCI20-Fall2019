@@ -3,6 +3,8 @@ using System;
 class MainClass {
   public static void Main (string[] args) {
 
+//hi
+
     double temp1, Output;
     string choice1String, choice2String, choice1AmountString;
 
@@ -83,12 +85,12 @@ class MainClass {
 
 
       }
-    
-
-    
 
 
 
-    
+
+
+
+
   }
 }
